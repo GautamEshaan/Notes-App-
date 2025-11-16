@@ -40,11 +40,15 @@ Fully responsive — works on all screen sizes (desktop, tablet, and mobile).
 ## 🎯 Key Features
 
 ✅ Add new notes
+
 ✅ Delete notes instantly
+
 ✅ Smooth hover effects & transitions
+
 ✅ Clean dark UI
+
 ✅ Reusable React components (useState)
-----
+
 
 ## 📚 What I Learned
 
