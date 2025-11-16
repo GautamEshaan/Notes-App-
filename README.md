@@ -1,4 +1,4 @@
-📝 Notes Taking App
+📝 Welcome to Notes Taking App!
 
 🌐 Example Website:
 https://your-notes-app.vercel.app/
