@@ -1,4 +1,4 @@
-📝 Welcome to Notes Taking App!
+💼 [Welcome to Tech Job Openings Dashboard!]
 
 🌐 Example Website:
 https://your-notes-app.vercel.app/
