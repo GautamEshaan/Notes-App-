@@ -3,6 +3,8 @@
 A clean and responsive Notes Taking App built with React.js, Tailwind CSS, and Lucide React Icons.
 Users can quickly add, view, and delete notes in a smooth, minimal dark-themed interface.
 
+---
+
 🌐 Live Demo
 
 🔗 https://your-notes-app.vercel.app
@@ -10,7 +12,7 @@ Users can quickly add, view, and delete notes in a smooth, minimal dark-themed i
 ## 📸 Screenshot
 <img width="1895" height="948" alt="Screenshot 2025-11-16 182307" src="https://github.com/user-attachments/assets/56f630b4-5b10-4aa7-8792-b2aacdf949e6" />
 
-
+---
 
 ## 🚀 Features
 
@@ -26,6 +28,8 @@ Users can quickly add, view, and delete notes in a smooth, minimal dark-themed i
 
 ⚛️ Built with reusable React components
 
+---
+
 ## 🛠 Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -34,8 +38,12 @@ Users can quickly add, view, and delete notes in a smooth, minimal dark-themed i
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Lucide-React](https://img.shields.io/badge/Lucide%20React-000000?style=for-the-badge&logo=lucide&logoColor=white)
 
+---
+
 ## 💻 Responsive Design  
 Fully responsive — works on all screen sizes (desktop, tablet, and mobile).
+
+---
 
 ## 🎯 Key Features
 
@@ -49,6 +57,7 @@ Fully responsive — works on all screen sizes (desktop, tablet, and mobile).
 
 ✅ Reusable React components (useState)
 
+---
 
 ## 📚 What I Learned
 
@@ -62,6 +71,7 @@ Styling fast with Tailwind
 
 Designing responsive layouts
 
+---
 
 ## 📦 Setup Instructions
 
