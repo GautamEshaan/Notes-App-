@@ -1,17 +1,15 @@
 📝 Welcome to Notes Taking App!
+
 🌐 Example Website:
 https://your-notes-app.vercel.app/
  (replace with your deployed link)
 
-<img width="1895" height="948" alt="Screenshot 2025-11-16 182307" src="https://github.com/user-attachments/assets/8996fe77-ebbe-41a6-9792-651e7191eb14" />
-
-
+<img width="1895" height="948" alt="Screenshot 2025-11-16 182307" src="https://github.com/user-attachments/assets/3e89229e-1f5c-43e5-975a-db3feba7095b" />
 
 🚀 Project Overview
 
 This is a modern and minimal Notes Taking App built using React.js, Tailwind CSS, and Lucide React Icons.
 It lets users create, view, and delete notes in a clean, responsive UI — all handled through React state in real time.
-
 
 Each note card displays:
 
@@ -44,8 +42,6 @@ The layout works smoothly on desktop, tablet, and mobile, thanks to Tailwind’s
 ✅ Clean dark UI with subtle gradients
 ✅ Reusable React components with useState hooks
 
-
-
 📚 What I Learned
 
 Through this project, I practiced:
@@ -61,8 +57,6 @@ Using Lucide React Icons
 Writing clean, modular, reusable React code
 
 This project strengthened my understanding of interactive UI development in React.
-
-
 
 📦 Setup Instructions
 # Clone the repository
